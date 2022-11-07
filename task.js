@@ -1,6 +1,5 @@
 
 
-// Toimiva koodi js joka ois toiminut tehtävässä
 const eka = [1, 2, 3];
 
 const ages = [ 10, 2, 18, 20, 1, 6 ];
