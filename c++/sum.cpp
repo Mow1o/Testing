@@ -1,4 +1,6 @@
-#include <stdio.h>
+#include <iostream>
+
+using namespace std;
 
 int main()
 {
@@ -23,7 +25,7 @@ int main()
     printf("Sum of the numbers : %d \n", s);
 
     /* Write your code here for calculating the mean value of the numbers */
-    printf("Mean value of the numbers : %.2f \n", m);
+    printf("Mean value of the numbers : %.3f \n", m);
 
     return 0;
 }
