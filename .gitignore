@@ -1,3 +1,6 @@
 .vscode/*
+
 *.o
+!c++/*.o
 *.class
+!java/*.class
