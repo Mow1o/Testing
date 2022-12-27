@@ -1,1 +1,2 @@
-123 456 78
+This is the encrypted text: rkmmcugp
+This is the encrypted text: {gu
