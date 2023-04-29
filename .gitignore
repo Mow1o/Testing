@@ -1,5 +1,5 @@
 .vscode/*
-Forciot/*
+.Forciot/
 *.o
 !c++/*.o
 *.class
