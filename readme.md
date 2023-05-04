@@ -1,8 +1,9 @@
-Repository for testing different techniques and methods, multiple languages, not in order.
+Repository for testing and practicing different techniques, methods, functions, multiple languages, not in order.
 
 2022 ->
 
 Python
-C/C++
+C
+C++
 Java
 JavaScript
