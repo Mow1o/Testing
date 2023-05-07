@@ -5,3 +5,4 @@ forciot.*
 !c++/*.o
 *.class
 !java/*.class
+*.exe
