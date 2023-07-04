@@ -31,3 +31,8 @@ Wait For URL
     [Arguments]    ${expected_url}
     Wait Until Element Is Visible    location == ${expected_url}
 
+Press Key
+    [Arguments]    ${locator}    ${key}
+    Press Key    ${locator}    ${key}
+
+
