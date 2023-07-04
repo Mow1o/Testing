@@ -6,3 +6,5 @@ forciot.*
 *.class
 !java/*.class
 *.exe
+clones/*
+clones/.*
