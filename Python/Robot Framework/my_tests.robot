@@ -33,6 +33,6 @@ Wait For URL
 
 Press Key
     [Arguments]    ${locator}    ${key}
-    Press Keys    ${locator}    ${key}
+    Press Key    ${locator}    ${key}
 
 
