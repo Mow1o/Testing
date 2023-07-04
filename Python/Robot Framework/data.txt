@@ -1,0 +1,1 @@
+Here we are starting our for loop. We will loop over our @{ROBOTS} list variable, and we are defining a ${robot} local variable, which will be assigned at each iteration.
