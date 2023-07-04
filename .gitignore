@@ -8,3 +8,8 @@ forciot.*
 *.exe
 clones/*
 clones/.*
+output.xml
+report.html
+interactive_console_output.xml
+log.html
+__init__.robot

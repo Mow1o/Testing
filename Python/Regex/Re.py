@@ -16,7 +16,7 @@ print (result)
 
 
 # 3 Open file, read it and count how many times the word "essay" appears in the text
-text = open("essay.txt", "r", encoding="utf-8")
+text = open("../essay.txt", "r", encoding="utf-8")
 text = text.read()
 
 
