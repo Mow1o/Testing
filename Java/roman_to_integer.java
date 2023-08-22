@@ -4,7 +4,7 @@ import java.util.*;
 class TestingSolution {
     public int characterToInt(String s) {
 
-        HashMap<Character, Integer> charMap = new LinkedHashMap<>();
+        HashMap<Character, Integer> charMap = new HashMap<>();
         charMap.put('I', 1);
         charMap.put('V', 5);
         charMap.put('X', 10);
