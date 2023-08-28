@@ -37,7 +37,7 @@ class TestingSolution {
     }
 
     public static void main(String[] args) {
-        String s = "MCMXCIV";
+        String s = "MCMXCIVXIVCMDXCV";
         TestingSolution sol = new TestingSolution();
         System.out.println(sol.characterToInt(s));
     }

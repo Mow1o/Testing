@@ -1,7 +1,7 @@
 import java.util.Scanner; 
 import java.util.*;
 class Solution {
-    public int maxProfit(int[] prices) {
+    public int maxProfit(int[] prices) { 
     int n = prices.length;
     if (n < 2) return 0;
 
@@ -9,7 +9,7 @@ class Solution {
     int[] profit2 = new int[n];
 
     int minPrice = prices[0];
-    for (int i = 1; i < n; i++) {
+    for (int i = 1; i < n; i++) { // loopataan läpi taulukko
         profit1[i] = Math.max(profit1[i - 1], prices[i] - minPrice);
         minPrice = Math.min(minPrice, prices[i]);
     }
@@ -47,7 +47,7 @@ public static void main(String[] args) {
     //int[] prices = {3,3,5,0,0,3,1,4}; //default prices
 
     Solution s = new Solution();
-    System.out.println(s.maxProfit(prices));
+    System.out.println(s.maxProfit(prices)); 
 }
 }
 
